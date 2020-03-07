@@ -1,8 +1,1 @@
-# Your code goes here!
-require 'pry'
-class Anagram
-  attr_accessor
-    
-  
-  end 
-end 
+# Your code goes here 
