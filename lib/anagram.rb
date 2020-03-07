@@ -4,3 +4,4 @@ class Anagram
   
   end 
 end 
+binding.pry
